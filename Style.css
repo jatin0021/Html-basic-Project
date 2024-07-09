@@ -1,0 +1,19 @@
+p{
+    background: yellowgreen;
+}
+#para{
+    background: aqua;
+}
+secondtable{
+    color: rgb(3, 3, 3);
+    background: lightgrey;
+}
+h1,h2{
+    background: lightcoral;
+}
+div{
+    background: lightskyblue;
+}
+tr{
+    font-style: italic;
+}
